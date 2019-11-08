@@ -1,0 +1,7 @@
+| Link | Title | Author |                 Description                 | Notes |
+| :--: | :---: | :----: | :-----------------------------------------: | :---------: |
+| https://github.com/HawkAaron/RNN-Transducer/ | RNN-Transducer | HawkAaron | End-to-End Speech Recognition using RNN-Transducer | |
+| https://github.com/HawkAaron/warp-transducer/ | warp-transducer | HawkAaron | A fast parallel implementation of RNN Transducer (Graves 2013 joint network), on both CPU and GPU. | |
+| https://github.com/1ytic/warp-rnnt/ | warp-rnnt | 1ytic | A GPU implementation of RNN Transducer (Graves 2012, 2013) | No cpu realisation, in Colab works only with GPU (neither CPU, nor TPU).|
+| https://github.com/awni/transducer/ | transducer | awni | A Fast Sequence Transducer Implementation with PyTorch Bindings. The corresponding publication is Sequence Transduction with Recurrent Neural Networks. | |
+| https://github.com/1ytic/open_stt_e2e | open_stt_e2e | 1ytic | PyTorch E2E ASR for open_stt dataset | Scripts for training language and acoustic models. |

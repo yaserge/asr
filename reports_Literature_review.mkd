@@ -1,0 +1,6 @@
+# Literature review template
+
+| Link | Study | Author | Year |                 Description                 |           Key Results         |
+| :--: | :---: | :----: | :--: | :-----------------------------------------: | :---------------------------: |
+| https://arxiv.org/pdf/1211.3711.pdf | Sequence Transduction with Recurrent Neural Networks | Alex Graves | 2012 | Two recurrent neural networks are used to determine alignments probabilities. Transcription network scans the input sequence and outputs the sequence of transcription vectors. Prediction network G, scans the output sequence y and outputs the prediction vector sequence. The prediction network G is a recurrent neural network consisting of an input layer, an output layer and a single hidden layer. In this paper LSTM is used. Transcription network is Bidirectional RNN. Forward-backward algorithm is used to calculate correspondense probability  |  RNN-based end-to-end probabilistic sequence transduction system is introduced. It is shown that method is able to transform any input sequences into any finite discrete output, e.g. speech recognition. <br><br> Phoneme error rate on the TIMIT = 23.2%|
+| https://arxiv.org/pdf/1303.5778.pdf | Speech Recognition with Deep Recurrent Neural Networks | Alex Graves, Abdel-rahman Mohamed, Geoffrey Hinton | 2013 |  | Phoneme error rate on the TIMIT = 17.7%|
